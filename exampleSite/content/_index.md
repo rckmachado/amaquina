@@ -1,6 +1,4 @@
 ---
-title: A Máquina
-description: Blog sobre tecnologia.
+title: "A Máquina"
+date: 2019-02-24
 ---
-
-Um local para refletir sobre tecnologia.
