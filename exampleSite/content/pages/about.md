@@ -1,6 +1,6 @@
 ---
 title: 'Sobre'
-url: "/about/"
+url: "/sobre/"
 image: images/giphy.webp
 ---
 
