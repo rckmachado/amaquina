@@ -3,13 +3,12 @@ title: 'Sobre'
 url: "/about/"
 image: images/giphy.webp
 ---
-> Gif - [@alcrego](https://giphy.com/channel/alcrego)
+> Gif - [alcrego](https://giphy.com/channel/alcrego)
 
 ## Contra vagos
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
+Lorem _markdownum notam si_ lintea meque certa [en meumqueillis](cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
+[Paviunt castris](nemorisque-urimur-violentus) cur errat ventis causa! Silvas
 sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
 utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
 
