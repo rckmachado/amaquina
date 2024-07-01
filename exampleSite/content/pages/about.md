@@ -3,7 +3,7 @@ title: 'Sobre'
 url: "/about/"
 image: images/giphy.webp
 ---
-> Gif - https://giphy.com/channel/alcrego
+> Gif - [@alcrego](https://giphy.com/channel/alcrego)
 
 ## Contra vagos
 
