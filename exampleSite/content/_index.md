@@ -3,4 +3,4 @@ title: A Máquina
 description: Blog sobre tecnologia.
 ---
 
-Analisando tecnologias.
+A tecnologia deve emancipar os trabalhadores, não escravizá-los.
