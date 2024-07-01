@@ -1,5 +1,5 @@
 ---
-title: A Máquina
+title: a máquina
 description: Blog sobre tecnologia.
 ---
 
