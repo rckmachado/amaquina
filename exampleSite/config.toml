@@ -60,7 +60,7 @@ pygmentsUseClasses = true
     name = "sobre"
     identifier = "sobre"
     weight = 3
-    url = "/About/"
+    url = "/about/"
   [[menu.main]]
     name = "tags"
     identifier = "tags"
