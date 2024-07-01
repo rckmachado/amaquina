@@ -1,9 +1,0 @@
-# Query: author.png
-# ContextLines: 1
-
-Um resultado - Um arquivo
-
-exampleSite/data/author.json:
-  3    "title": "",
-  4:   "image": "images/me.jpg"
-  5  }

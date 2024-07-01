@@ -1,6 +1,6 @@
 ---
 title: A Máquina
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: Blog sobre tecnologia.
 ---
 
 Um local para refletir sobre tecnologia.
