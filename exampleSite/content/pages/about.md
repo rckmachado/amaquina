@@ -1,7 +1,7 @@
 ---
 title: 'Sobre'
 url: "/about/"
-image: images/about.jpg
+image: images/giphy.webp
 ---
 
 ## Contra vagos
