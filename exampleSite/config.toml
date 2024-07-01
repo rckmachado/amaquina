@@ -48,21 +48,21 @@ pygmentsUseClasses = true
 [menu]
   [[menu.main]]
     identifier = 'home'
-    name = 'Home'
+    name = 'home'
     url = '/'
     weight = 1
   # [[menu.main]]
-    # name = "Blog"
+    # name = "blog"
     # identifier = "blog"
     # weight = 2
     # url = "/posts/"
   [[menu.main]]
-    name = "Sobre"
+    name = "sobre"
     identifier = "sobre"
     weight = 3
     url = "/About/"
   [[menu.main]]
-    name = "Tags"
+    name = "tags"
     identifier = "tags"
     weight = 4
     url = "/tags/"
