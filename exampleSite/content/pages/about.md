@@ -5,7 +5,7 @@ image: images/giphy.webp
 ---
  **Gif** - [alcrego](https://giphy.com/channel/alcrego)
 
-## A máquina
+## A máquina<span class="dot">.</span>
 
 Um projeto de blog autoral simples para discutir tecnologia.
 
