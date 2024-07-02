@@ -9,7 +9,7 @@
       <li class="menu-item-{{ .Name | lower }} {{ if $active }}active{{ end }}">
         <a href="{{.URL}}">
           {{ .Pre }}
-          <span>{{ .Name }}</span>
+          <span>{{ .Name }}<span class="dot">.</span></span>
         </a>
       </li>
       {{end}}
