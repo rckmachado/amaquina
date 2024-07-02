@@ -7,6 +7,7 @@ imageAltAttribute: CCTV Camera
 tags:
    - liberty 
    - surveillance
+   - test
 ---
 
 ## He moved over to the window
