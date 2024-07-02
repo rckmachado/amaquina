@@ -7,6 +7,6 @@ image: images/giphy.webp
 
 ## Contra vagos
 
-Um projeto de blog simples e autoral para discutir tecnologia.
+Um projeto de blog autoral simples para discutir tecnologia.
 
 Por rckmachado
