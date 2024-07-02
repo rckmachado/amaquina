@@ -7,6 +7,6 @@ image: images/giphy.webp
 
 ## a máquina<span class="dot">.</span>
 
-Um projeto de blog autoral simples para discutir tecnologia.
+Um projeto de blog autoral simples para falar de tecnologia.
 
 **Por: rckmachado**
